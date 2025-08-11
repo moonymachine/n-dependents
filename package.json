@@ -1,0 +1,16 @@
+{
+	"name": "fun.moonymachine.n-dependents",
+	"version": "1.0.0",
+	"displayName": "n Dependents - Dependency Injection",
+	"description": "Adds a Dependency Injection menu to the Project Settings window where you can assign a service container.",
+	"author": { "name": "Moony Machine" },
+	"license": "MIT",
+	"samples":
+	[
+		{
+			"displayName": "Example Service Container",
+			"description": "Provides an example service container asset to assign to the composition root.",
+			"path": "Samples~/ExampleServiceContainer"
+		}
+	]
+}

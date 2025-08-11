@@ -1,0 +1,17 @@
+{
+    "name": "MoonyMachine.nDependents",
+    "rootNamespace": "",
+    "references": [
+        "MoonyMachine.AbstractServiceLocator",
+        "MoonyMachine.ScrutableObjects"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

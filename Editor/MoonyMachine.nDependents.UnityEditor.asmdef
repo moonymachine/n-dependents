@@ -1,0 +1,18 @@
+{
+    "name": "MoonyMachine.nDependents.UnityEditor",
+    "rootNamespace": "",
+    "references": [
+        "MoonyMachine.nDependents"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
